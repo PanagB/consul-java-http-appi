@@ -1,0 +1,1 @@
+Application to add key values in consul
